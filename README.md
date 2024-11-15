@@ -17,4 +17,4 @@
 - **JavaScript (ES6)**
 
 ## Autor ✒️
-- **[Tu Nombre](https://github.com/acarratala03)** - Único Desarrollador 
+- **[Arturo Carratalá Diezma](https://github.com/acarratala03)** - Único Desarrollador 
